@@ -1,4 +1,4 @@
-# Employee-Management-System
+# Employee-Management-System using SpringBoot and Thymeleaf
 # Homepage
 ![home page](https://github.com/Harsha727652/Employee-Management-System/assets/147507973/79a37638-1b24-47e1-95f3-c9d8bd516da6)
 # Add New Employee page
